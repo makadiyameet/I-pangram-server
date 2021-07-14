@@ -17,8 +17,9 @@
     "nodemon": "^2.0.12"
   },
 
-  "optionalDependencies": {
-    "fsevents": "*"
+  "resolutions": {
+    "fsevents": "1.2.9",
+    "**/fsevents": "1.2.9"
   }
 
 }
