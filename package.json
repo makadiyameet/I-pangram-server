@@ -15,5 +15,10 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.13.2",
     "nodemon": "^2.0.12"
+  },
+
+  "optionalDependencies": {
+    "fsevents": "*"
   }
+
 }
