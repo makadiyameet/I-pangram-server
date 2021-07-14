@@ -1,6 +1,10 @@
 {
   "name": "server",
   "version": "1.0.0",
+  "engines": {
+    "node": "12.22.1",
+    "npm": "7.16.0"
+  },
   "description": "",
   "main": "app.js",
   "scripts": {
