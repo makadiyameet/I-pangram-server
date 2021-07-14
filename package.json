@@ -15,11 +15,5 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.13.2",
     "nodemon": "^2.0.12"
-  },
-
-  "resolutions": {
-    "fsevents": "1.2.9",
-    "**/fsevents": "1.2.9"
   }
-
 }
